@@ -1,5 +1,5 @@
 export class Message {
-    id: string;
+    id: number;
     text: string;
     createdAt: Date;
 }
